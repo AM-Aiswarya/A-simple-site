@@ -1,0 +1,27 @@
+html{
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #266326;
+
+}
+
+h1{
+    text-align: center;
+    color: darkgreen;
+    text-shadow: 1.5px 2px 3px black;
+}
+
+p {
+    color: rgb(33, 88, 26);
+  }
+  ul{
+      color: rgb(24, 46, 3);
+  }
+  body{
+    margin: 10px;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(99, 153, 112);
+    background-color: rgb(234, 245, 229);
+    
+}
+
